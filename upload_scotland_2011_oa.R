@@ -9,6 +9,7 @@ meta <- purrr::imap(f, ~{
     dplyr::mutate(order = 1:dplyr::n())
 }) |>
   dplyr::bind_rows() 
+
 meta <- meta |> dplyr::select(tbl, value, order)
 variables <- purrr::imap(f, ~{
   nm <- tools::file_path_sans_ext(.x)
