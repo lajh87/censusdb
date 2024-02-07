@@ -26,4 +26,13 @@ Scottish output area classifications are available for 2001 and 2011 from
 
 https://borders.ukdataservice.ac.uk/bds.html
 
+Census flows are from
+https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=7713
+https://wicid.ukdataservice.ac.uk/
+
+ONS Postcode Lookup Table from
+https://geoportal.statistics.gov.uk/datasets/3700342d3d184b0d92eae99a78d9c7a3/about
+
+
+
 
